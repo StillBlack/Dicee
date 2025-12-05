@@ -1,2 +1,1 @@
-# Dicee 🎲
 I built a simple Flutter dice-rolling app that displays two dice and changes their values when tapped. This project helped me understand the basics of Flutter, including stateless and stateful widgets, using setState() to update the UI, handling button presses, working with images, and creating responsive layouts with Expanded. It strengthened my knowledge of core Dart concepts and showed me how to add functionality to a Flutter app.
